@@ -1,6 +1,6 @@
 {
     "name": "@claud/node-app-errors",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "Custome errors for your node app.",
     "homepage": "https://github.com/Claud/node-app-errors",
     "author": "Shiryaev Andrey <grabzila@gmail.com>",
